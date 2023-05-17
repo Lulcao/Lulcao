@@ -1,7 +1,7 @@
 # Hey there, I'm Lucas! 👋
 
 ## About Me
-I'm a 20-year-old Brazilian student pursuing a Bachelor's degree in System Information. I'm super passionate about technology and how it can be used to create innovative solutions to real-world problems.
+I'm a 20-year-old Brazilian student pursuing a Bachelor's degree in System Information. I'm super passionate about technology and how it can be used to create innovative solutions to solve problems.
 
 ## Skills
 - 💻 Salesforce Ecosystem: I'm currently rocking the Salesforce world! I've reached the "Ranger" level on Trailhead, demonstrating my expertise in various Salesforce technologies and concepts.
