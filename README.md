@@ -9,8 +9,8 @@ I'm a 20-year-old Brazilian student pursuing a Bachelor's degree in System Infor
 - ☕ Java and SQL: I'm also proficient in Java and SQL, which are essential for building robust enterprise applications and managing databases effectively.
 
 ## Languages
-- 🇺🇸 Advanced English: I'm comfortable communicating and working in English.
-- 🇧🇷 Fluent Portuguese: As a native Portuguese speaker, I'm fluent in Portuguese.
+- 🇺🇸 Advanced: I'm comfortable communicating and working in English.
+- 🇧🇷 Fluent: As a native Portuguese speaker, I'm fluent in Portuguese.
 
 ## Professional Experience
 I'm currently interning at Duko Tecnologia, a Salesforce consulting enterprise. In this role, I'm gaining hands-on experience working with Salesforce technologies, assisting with system development, and contributing to the implementation of innovative solutions for clients.
